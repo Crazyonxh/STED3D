@@ -1,2 +1,2 @@
 # STED3D
-a simple simulation of STED resolution 
+a simple simulation of STED point spread function 
